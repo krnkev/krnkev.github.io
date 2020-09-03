@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kevin Lee",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://krnkev.github.io/images/molly.png",
+    "email": "leek3@hawaii.edu",
+    "phone": "",
+    "website": "https://krnkev.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -22,51 +22,46 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Kevin Lee",
+        "url": "https://www.linkedin.com/in/kevin-lee-385184169/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
+      
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Studio_jindo",
+        "url": "http://instagram.com/Studio_jindo"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Analyst",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "Coding",
       "keywords": [
+        "C", "Javascript", "Arduino", "Html"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Art",
       "keywords": [
+        "Classical Painting and Drawing", "Digital Art"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Languages",
+      "level": "Intermediate to Fluent",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Korean",
+        "Japanese",
+        "Pidgen",
+        
       ]
     },
     {
@@ -84,11 +79,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2020)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.97",
       "courses": [
       ]
     }
