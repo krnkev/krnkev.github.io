@@ -23,3 +23,4 @@ During the course of the project, I researched, planned, then executed and teste
 The project was successful, and the website is still active and helps the owners of Koolau Snack Shop alleviate economic pressure. It was actually quite fun, and I gained a lot of experience with HTML, mobile vs full sized monitor transitioning, and imbedded SQL for keeping database integrity. I also learned about other tools that are available for web owners, such as having alerts sent directly to a linked cellphone whenever a purchase was made. 
  
 
+Source: <a href="https://github.com/krnkev/Websitebuild"><i class="large github icon "></i>krnkev/Websitebuild</a>
