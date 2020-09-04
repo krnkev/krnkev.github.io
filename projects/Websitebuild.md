@@ -5,7 +5,7 @@ image: images/koolausnack.png
 title: E-commerce Website Build
 permalink: projects/Websitebuild.md
 # All dates must be YYYY-MM-DD format!
-date: 2020-9-3
+date: 2020-09-03
 labels:
   - SQL
   - HTML
