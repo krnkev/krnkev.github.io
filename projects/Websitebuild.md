@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/koolausnack.jpg
 title: E-commerce Website Build
-permalink: projects/Websitebuild
+permalink: projects/Websitebuild.md
 # All dates must be YYYY-MM-DD format!
 date: 2020-9-3
 labels:
@@ -22,4 +22,4 @@ During the course of the project, I researched, planned, then executed and teste
 
 The project was successful, and the website is still active and helps the owners of Koolau Snack Shop alleviate economic pressure. It was actually quite fun, and I gained a lot of experience with HTML, mobile vs full sized monitor transitioning, and imbedded SQL for keeping database integrity. I also learned about other tools that are available for web owners, such as having alerts sent directly to a linked cellphone whenever a purchase was made. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
