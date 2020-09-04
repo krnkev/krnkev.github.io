@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Rocket.jpg
+image: images/rocket.jpg
 title: 
 permalink: projects/Nasainternship
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: For the Nasa Rocketry internship I was part of a team that created a Ro
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Rocket.jpg">
+  <img class="ui image" src="../images/rocket.jpg">
 </div>
  
   The Nasa Rocketry program was one of the first major projects that I was a part of. The mission for this project was to create a rocket with an onboard payload that had to meet certain requirements after the payload was released. The requirement for the payload was to send information back to a laptop that was being monitored on the ground, while simultaneously drifting down to the ground towards a specific target.
