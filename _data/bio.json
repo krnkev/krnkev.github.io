@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "linkedin",
