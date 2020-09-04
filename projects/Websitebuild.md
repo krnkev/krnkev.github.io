@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/koolausnack
+image: images/koolausnack.png
 title: E-commerce Website Build
 permalink: projects/Websitebuild.md
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: Overview of E-commerce site design build for Koolau Snack Shop, to alleviate economic pressure during Covid crisis.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/koolausnack.jpg">
+<img class="ui medium right floated rounded image" src="../images/koolausnack.png">
 
 During the Covid-19 crisis, many small local businesses were heavily affected and losing business due to the quarantine. My goal for this project was to show the practical and real application of technology to solve a crisis. The owner of the store was an elderly couple that did not have much experience with technology. 
 
