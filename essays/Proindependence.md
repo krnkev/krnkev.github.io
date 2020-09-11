@@ -17,13 +17,12 @@ labels:
   
  On the other hand, it was very easy to find an example of bad question asking. In this forum, the asker of the question is trying to figure out how to make a basic instant messaging system, while failing at almost every level of good question asking according to Eric. To begin with, the forum was flagged for cancellation due to the vagueness of his question. If a question is too vague, then people will be unable to pinpoint the cause of the problem, thus being unable to solve it. The questions was also asked in an almost childlike and unprofessional-like manner. The asker of the question also has provided no code and almost no reference point, and simply stated that he searched through web without being able to find anything. The laziness and lackadaisacal approach to this problem is clearly shown in the link below. 
 
-
+  To conclude, a successful programmer is not always determined by how efficiently he can solve a problem, especially if the programmer is relying on the strengths and work of others. It is instead determined by other factors such as effort, a longing to improve oneself, and proper question asking.
     
-    To conclude, a successful programmer is not always determined by how efficiently he can solve a problem, especially if the programmer is relying on the strengths and work of others. It is instead determined by other factors such as effort, a longing to improve oneself, and proper question asking.
     
-    ["How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
-    [Good forum](https://stackoverflow.com/questions/39998547/recursive-tree-construction-and-stack-overflow-error)
-    [Bad forum](https://stackoverflow.com/questions/8542565/how-to-make-a-basic-instant-messaging-program-in-pure-java)
+  ["How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
+  [Good forum](https://stackoverflow.com/questions/39998547/recursive-tree-construction-and-stack-overflow-error)
+  [Bad forum](https://stackoverflow.com/questions/8542565/how-to-make-a-basic-instant-messaging-program-in-pure-java)
  
   
   
