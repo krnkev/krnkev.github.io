@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Software Engineering and Me
+image: images/glassesTB.jpeg
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
