@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/smarttint.jpg
+image: images/smarttintTB.jpg
 title: E-curtain (electro-chromic tint)
 permalink: projects/smarttint
 # All dates must be YYYY-MM-DD format!
