@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/koolausnack.png
+image: images/koolausnackTB.png
 title: E-commerce Website Build
 permalink: projects/Websitebuild
 # All dates must be YYYY-MM-DD format!
