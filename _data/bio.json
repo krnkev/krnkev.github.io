@@ -90,24 +90,20 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Pearl Harbor Naval Shipyard",
+      "position": "Submarine Mechanic",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2012",
+      "endDate": "2015",
+      "summary": "Removal, repair, and reinstallation of submarine machinery",
       "highlights": [
         "",
         ""
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": ""
+      "website": ""
       "highlights": [
         "",
         ""
@@ -116,12 +112,12 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Boy Scouts of America",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Voluteer and Charity Work",
+      "startDate": "2005",
+      "endDate": "2009",
+      "summary": "Beach cleanups, fundraisers, donations, volunteer work",
       "highlights": [
         "",
         ""
@@ -143,16 +139,16 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "7th place national art contest Middle School",
+      "date": "2006",
+      "awarder": "Honolulu Academy of Arts",
+      "summary": "Entered and won cash prize and art lessons"
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Tae Kwon Do Junior Olympic Champion",
+      "date": "2004",
+      "awarder": "Junior Olympic Association",
+      "summary": "Entered Junior Olympic sparring competition and won gold medal at Las Vegas"
     }
   ],
   "references": [
