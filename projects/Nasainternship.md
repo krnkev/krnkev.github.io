@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rocket.jpg
+image: images/rocketTB.jpg
 title: 
 permalink: projects/Nasainternship
 # All dates must be YYYY-MM-DD format!
