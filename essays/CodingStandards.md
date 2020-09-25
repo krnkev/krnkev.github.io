@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: My First Introduction to Javascript
+title: Coding Standards
 image: images/javascripTB.jpg
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-03
+date: 2020-09-23
 labels:
   - Software Engineering
   - Learning
