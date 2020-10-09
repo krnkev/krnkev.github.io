@@ -18,4 +18,4 @@ That is when our professor introduced us to Semantic UI, which is basically an e
 
 Semantic UI gives web designers ALL of the design capabilities that are provided by professional webdesign programs such as Shopify but for free. This is a big bonus, but the true benefit lies in the ability to control each and every single aspect of your webpage, whereas programs like Shopify are limited to the layouts and designs that are prebuilt by their designers.
 
-I am greatful to my professor for teaching me about semantic UI frameworks, and also for his rapid fire, learn-by-doing approach. Rebuilding preexisting professional websites has honed my web design skills to a sharp edge.
+I am grateful to my professor for teaching me about semantic UI frameworks, and also for his rapid fire, learn-by-doing approach. Rebuilding preexisting professional websites has honed my web design skills to a sharp edge.
