@@ -8,7 +8,7 @@ date: 2020-10-09
 labels:
   - Software Engineering
   - Learning
-  -Html
+  - Html
 ---
 The past few weeks has had us dive head first into webdesign, something that I was not too familiar with. I had built websites before, but never from the ground up using HTML. 
 
