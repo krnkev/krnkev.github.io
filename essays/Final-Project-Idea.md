@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Final Project Idea
+title: "Final Project Idea"
 image: images/javascripTB.jpg
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-01
@@ -10,7 +10,9 @@ labels:
   - Meteor
 ---
 Overview:
-As a UH manoa student currently taking courses online due to the Covid crisis, I definitely feel that I am being restricted and more stressed as a student.
+The problem: With the second wave of COVID-19 cases expected to arrive any day now, UHM needs to be prepared to handle an increase in positive COVID-19 cases on campus while still remaining operational. To maximize safety, UHM had launched a user-friendly and simple contact-tracing app to monitor those who come to campus. However, for those who test positive, the process of getting back to campus can still be a hassle.   
+
+The solution: The Campus Monitor app will easily monitor documents.
 
 The basic goal of this project is to slowly start creating a system that would allow students to attend UH manoa campus again.
 
