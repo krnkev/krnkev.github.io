@@ -19,22 +19,23 @@ Overview:
 
 The basic goal of this project is to slowly start creating a system that would allow students to attend UH manoa campus again.
 
+Approach
 
+This app will basically be a database for Covid cases on campus,as well as a tracking system of sorts. 
 
+Students who have tested positive can self report with documentation, as well as establish what classes they were going to, and what areas they frequented. 
 
-The department of transportation in Hawaii is currently enforcing testing for all people coming into the state.
+There will also be a section of the app that allows students to upload documentation clearing them to return to school, which will show the students pending status. 
 
-My basic idea would be something similar, or to create the infrastructure for something that the UH Manoa faculty could
-use, if they ever decide to enforce testing for students here. 
+The main landing page of the app will be a map of the campus, that shows where the "hot zones" of Covid cases have been. This map will use information provided by the students who have self reported.
 
-The site would definitely use the meteor template that is provided. It would 
+Possible Pages include:
 
--encorporate a database that is based off of UH Manoa's email database.
+* Landing Page showing Map(and possible alerts)
 
--have a sign in feature based off the database
+* A general page on how to maintain a clean educational environment, contact information if one feels sick,and accepted testing centers
 
--have a feature where the student can upload documents confirming their testing
+* Upload page form where students can self report and give documentation/detailed tracking information on their whereabouts on campus
 
--have a page where, after the faculty reviews the documents, could post an "accepted", or "denied", or "in review" status
-
+* A status page where students can upload clearance documentation and view their status (pending review, accepted, or denied)
 
