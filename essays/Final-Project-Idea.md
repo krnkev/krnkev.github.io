@@ -20,7 +20,7 @@ labels:
 
 ### Approach:
 
-This app will basically be a database for Covid cases on campus,as well as a tracking system of sorts. Students who have tested positive can self report with documentation, as well as establish what classes they were going to, and what areas they frequented. There will also be a section of the app that allows students to upload documentation clearing them to return to school, which will show the students pending status. The main landing page of the app will be contain general information, as well as have listed certified medical testing centers that are accepted by UH manoa.
+This app will basically be a database for COVID cases on campus, as well as a tracking system of sorts. Students who have tested positive can self report with documentation, as well as establish what classes they were going to, and what areas they frequented. There will also be a section of the app that allows students to upload documentation clearing them to return to school, which will show the students pending status. The main landing page of the app will be contain general information, as well as have listed certified medical testing centers that are accepted by UH manoa.
 
 Possible Pages include:
 * A Landing page on how to maintain a clean educational environment, contact information if one feels sick,and accepted testing centers, and highly frequented places on campus of people who tested positive
