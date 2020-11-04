@@ -10,11 +10,11 @@ labels:
   - Meteor
 ---
 ### Overview:
-*The problem*: With the second wave of COVID-19 cases expected to arrive any day now, UHM needs to be prepared to handle an increase in positive COVID-19 cases on campus while still remaining operational. To maximize safety, UHM had launched a user-friendly and simple check-in app called LumiSight UH for students, faculty, and staff to fill out in order to get clearance to come to campus. However, there currently does not exist an app to see the COVID hotspots on campus or for people who get tested positive to get clearance to come back to campus. 
+*The problem*: With the second wave of COVID-19 cases expected to arrive any day now, UHM needs to be prepared to handle an increase in positive COVID-19 cases on campus while still remaining operational. To maximize safety, UHM had launched a user-friendly and simple check-in app called LumiSight UH for students, faculty, and staff to fill out in order to get clearance to come to campus. However, there currently does not exist an app to see the COVID hotspots on campus, self report a positive covid test, or for people who get tested positive to get clearance to come back to campus. 
 
-*The solution*: The Get Back To Campus app enables you to login to your phone and determine: 
+*The solution*: The Get Back To Campus app enables you to login to your phone and: 
 * See a list of highly frequented locations on campus from people who ended up testing positive
-* Self report your positive covid test, upload documentation, report your schedule 
+* Self report your positive covid test, upload documentation, and report your schedule and areas frequented 
 * Upload your medical clearance documents if you tested positive
 * See the progress (accepted, received, in review, rejected) of your medical clearance documents if you tested positive and want to get back to campus
 
