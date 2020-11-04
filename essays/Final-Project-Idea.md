@@ -19,7 +19,7 @@ Overview:
 
 The basic goal of this project is to slowly start creating a system that would allow students to attend UH manoa campus again.
 
-Approach
+Approach:
 
 This app will basically be a database for Covid cases on campus,as well as a tracking system of sorts. 
 
