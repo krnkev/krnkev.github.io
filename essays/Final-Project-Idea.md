@@ -27,13 +27,11 @@ Students who have tested positive can self report with documentation, as well as
 
 There will also be a section of the app that allows students to upload documentation clearing them to return to school, which will show the students pending status. 
 
-The main landing page of the app will be a map of the campus, that shows where the "hot zones" of Covid cases have been. This map will use information provided by the students who have self reported.
+The main landing page of the app will be contain general information, as well as have listed certified medical testing centers that are accepted by UH manoa.
 
 Possible Pages include:
 
-* Landing Page showing Map(and possible alerts)
-
-* A general page on how to maintain a clean educational environment, contact information if one feels sick,and accepted testing centers
+* A Landing page on how to maintain a clean educational environment, contact information if one feels sick,and accepted testing centers
 
 * Upload page form where students can self report and give documentation/detailed tracking information on their whereabouts on campus
 
