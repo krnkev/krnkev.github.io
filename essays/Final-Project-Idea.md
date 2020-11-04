@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Overview:
+###Overview:
 *The problem*: With the second wave of COVID-19 cases expected to arrive any day now, UHM needs to be prepared to handle an increase in positive COVID-19 cases on campus while still remaining operational. To maximize safety, UHM had launched a user-friendly and simple check-in app called LumiSight UH for students, faculty, and staff to fill out in order to get clearance to come to campus. However, there currently does not exist an app to see the COVID hotspots on campus or for people who get tested positive to get clearance to come back to campus. 
 
 *The solution*: The Get Back To Campus app enables you to login to your phone and determine: 
@@ -19,7 +19,7 @@ Overview:
 
 The basic goal of this project is to slowly start creating a system that would allow students to attend UH manoa campus again.
 
-Approach:
+###Approach:
 
 This app will basically be a database for Covid cases on campus,as well as a tracking system of sorts. 
 
@@ -38,7 +38,7 @@ Possible Pages include:
 * A status page where students can upload clearance documentation and view their status (pending review, accepted, or denied)
 
 
-Beyond the Basics:
+###Beyond the Basics:
 
 After implementing the basic functionality, here are ideas for more advanced features:
 
