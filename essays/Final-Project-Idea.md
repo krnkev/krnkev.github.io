@@ -37,3 +37,13 @@ Possible Pages include:
 
 * A status page where students can upload clearance documentation and view their status (pending review, accepted, or denied)
 
+
+Beyond the Basics:
+
+After implementing the basic functionality, here are ideas for more advanced features:
+
+* Have a map page, which shows a map of the "hot zones" on campus(places and buildings that have seen a surge in cases)
+
+* Provide important news regarding Covid, and Covid cases in Oahu
+
+* Notify students when and where "hot zones" have developed on campus via e-mail, twitter, or SMS
