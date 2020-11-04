@@ -4,11 +4,19 @@ type: essay
 title: Final Project Idea
 image: images/javascripTB.jpg
 # All dates must be YYYY-MM-DD format!
-date: 2020-11-02
+date: 2020-11-01
 labels:
   - Software Engineering
-  - Learning
+  - Meteor
 ---
+Overview:
+As a UH manoa student currently taking courses online due to the Covid crisis, I definitely feel that I am being restricted and more stressed as a student.
+
+The basic goal of this project is to slowly start creating a system that would allow students to attend UH manoa campus again.
+
+
+
+
 The department of transportation in Hawaii is currently enforcing testing for all people coming into the state.
 
 My basic idea would be something similar, or to create the infrastructure for something that the UH Manoa faculty could
