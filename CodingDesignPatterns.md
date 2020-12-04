@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Design Patterns
 image: images/javascripTB.jpg
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-02
