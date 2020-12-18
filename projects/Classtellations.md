@@ -21,6 +21,6 @@ summary: Final project for a coding class. It was a group based project, in whic
  
  Star UH Gps already does this, however, since the site is a bit bulky, and has a lot of moving parts, this simplifies the process if the student just wants to get an idea of how to plan their education. The application also provides info on teachers and provides a course list for ICS majors, as well has has info on counselors for the ICS program, and implements a download as pdf button.
  
- The group was spit up to share work on different pages. I designed the aesthetics of the page, created the login and landing page features, as well as implemented the download as pdf button on the drag and drop page. I also assisted in debugging, and managed to help my other group members debug two major issues that were preventing pages from displaying properly.
+ The group was split up to share work on different pages. I designed the aesthetics of the page, created the login and landing page features, as well as implemented the download as pdf button on the drag and drop page. I also assisted in debugging, and managed to help my other group members debug two major issues that were preventing pages from displaying properly.
  
  I learned a lot, and really enjoyed my group members. Everyone was helpful, did their share, and communicated effectively. I wish to do more group projects in the future, and my knowledge I gained from this project will definitely help me.
