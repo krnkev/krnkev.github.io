@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/classtellations.jpeg
+image: images/classtellations.jpg
 title: 
 permalink: projects/Classtellations
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: Final project for a coding class. It was a group based project, in whic
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/classtellations.jpeg">
+  <img class="ui image" src="../images/classtellations.jpg">
 </div>
  
  Classtellations was the name of the application that my group and I designed and created. The point of this application was to create a drag and drop type of user interface, to allow students to drag courses and drop them into a flow chart. The students can then print this chart, and have a plan on paper as to go abuot how to register for classes each semester.
